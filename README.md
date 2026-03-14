@@ -1,6 +1,6 @@
 # Powershell-Cibersegurity
 ¿Que contiene este script? 
-Son Scripts y modulos con el objetivo de saber informacion del dispositivo y verificar si alguna IP conectada a nuestra computadora esta reportada como abusiva en AbuseIP
+Repositorio con scripts de ciberseguridad desarrollados en PowerShell orientados a automatización, recopilación de información del sistema y monitoreo mediante APIs. El objetivo del repositorio es centralizar herramientas simples que ayuden en tareas de seguridad, auditoría y análisis de sistemas Windows.
 Inlcluye
 1.- Script para verificar puertos en la computadora 
 2.- Modulo para verificar IP del dispositivo en AbuseIP

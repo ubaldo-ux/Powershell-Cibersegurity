@@ -4,5 +4,5 @@ Son Scripts y modulos con el objetivo de saber informacion del dispositivo y ver
 Inlcluye
 1.- Script para verificar puertos en la computadora 
 2.- Modulo para verificar IP del dispositivo en AbuseIP
-Aprendi mucho sobre las conexion de los puertos de las comptadoras y como funcionan
+Aprendi mucho sobre las conexion de los puertos de las comptadoras y como funcionan.
 ubaldo-ux
